@@ -5,3 +5,4 @@ if a==3:
     print("Hola Mundo2")
 else:
     print("Hola Mundo3") 
+print('Cualquier otra cosa')
